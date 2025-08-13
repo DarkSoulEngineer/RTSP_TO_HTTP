@@ -2,8 +2,8 @@
 
 Convert RTSP camera streams into HLS streams viewable in any browser even on smart TVs.
 
-> 📡 A project inspired by the **HiveHack @ CyberSea** challenge — where the goal was to hijack and rebroadcast RTSP streams via HTTP for smart TV viewing.
-
+> 📡 A project inspired by the **HiveHack @ CyberSea** challenge where the goal was to hijack and rebroadcast RTSP streams via HTTP for smart TV viewing.
+> <a href="https://www.hivehack.tech/post/iot-hacking-challenge-walkthrough-rtsp-to-http">HiveHack Blog</a>
 ---
 
 ## 🔧 Overview
